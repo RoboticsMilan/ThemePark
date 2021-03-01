@@ -1,0 +1,28 @@
+name: Project2020
+version: 1.0-SNAPSHOT
+main: nl.roboticsmilan.project2020.Main
+api-version: 1.13
+authors: [RoboticsMilan]
+description: Dit is de plugin die ik maak tijdens de Codering Tutorials
+website: roboticsmilan.nl
+commands:
+  hallo:
+    description: Een Commando die hallo tegen een speler zegt
+  economy:
+    description: Het Economie Commando
+  profile:
+    description: Een Commando die het profile menu opent
+  ride:
+    description: Een Commando om het Ridemenu met de openen en te beheren
+  warp:
+    description: Een Commando om mee te warpen
+  achievement:
+    description: Opent het achievements menu
+  ridecounter:
+    description: Het Ridecounter Systeem
+  chat:
+    description: Een Commando om de chat status te veranderen en de chat te clearen
+  freefall:
+    description: Het commando om de freefall mee te bedienen
+  shop:
+    description: Dit is het command om een shop mee te openen
